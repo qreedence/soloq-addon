@@ -1,4 +1,4 @@
-## Interface: 120000
+## Interface: 120005
 ## Title: SoloQ
 ## Notes: Mythic+ matchmaking — queue up, get matched, run keys.
 ## Author: Eden
