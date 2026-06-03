@@ -1,7 +1,7 @@
 ## Interface: 120005
 ## Title: SoloQ
 ## Notes: Mythic+ matchmaking — queue up, get matched, run keys.
-## Author: Eden
+## Author: Qreedence
 ## Version: 0.1.0
 ## SavedVariables: SoloQDB
 
